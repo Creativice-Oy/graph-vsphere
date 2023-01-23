@@ -46,7 +46,7 @@
   "dependencies": {
     "@lifeomic/attempt": "^3.0.3",
     "lodash": "^4.17.21",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.7",
     "node-fetch": "2"
   }
 }
