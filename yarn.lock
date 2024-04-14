@@ -859,10 +859,10 @@
   resolved "https://registry.yarnpkg.com/@lifeomic/attempt/-/attempt-3.0.1.tgz#a1d65fc06df3b5650cc851a6cafee0a733f8b58e"
   integrity sha512-zvQ6ydPI2mevhuZ++l2S93+DS08w27ad942Ae9WW5h7j+giEHrK7rsgbchVTAs0jo35Ox90G5/c8ZDSz5vipWg==
 
-"@lifeomic/attempt@^3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@lifeomic/attempt/-/attempt-3.0.3.tgz#e742a5b85eb673e2f1746b0f39cb932cbc6145bb"
-  integrity sha512-GlM2AbzrErd/TmLL3E8hAHmb5Q7VhDJp35vIbyPVA5Rz55LZuRr8pwL3qrwwkVNo05gMX1J44gURKb4MHQZo7w==
+"@lifeomic/attempt@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@lifeomic/attempt/-/attempt-3.1.0.tgz#7fc703559177b81a008b9d263e3d9a001d11d08a"
+  integrity sha512-QZqem4QuAnAyzfz+Gj5/+SLxqwCAw2qmt7732ZXodr6VDWGeYLG6w1i/vYLa55JQM9wRuBKLmXmiZ2P0LtE5rw==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
